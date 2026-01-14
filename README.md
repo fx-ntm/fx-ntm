@@ -3,11 +3,11 @@
 ### My Skills
 - Front-End:
 
-[![Front-End Skills](https://skillicons.dev/icons?i=ts,tailwind,cs,html,vue,react&theme=light)](https://skillicons.dev)
+[![Front-End Skills](https://skillicons.dev/icons?i=ts,tailwind,css,html,vue,react&theme=light)](https://skillicons.dev)
 
 - Back-End:
 
-[![Back-End Skills](https://skillicons.dev/icons?i=ts,nodejs,php,laravel,cs,cpp,dotnet&theme=light)](https://skillicons.dev)
+[![Back-End Skills](https://skillicons.dev/icons?i=ts,nodejs,php,laravel,cs,dotnet&theme=light)](https://skillicons.dev)
 
 - DevOps & Infrastructure:
 
@@ -19,7 +19,7 @@
 
 - Miscallenous:
 
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,apple,linux,figma,discord&theme=light)](https://skillicons.dev)
 
 <!--
 **fx-ntm/fx-ntm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
