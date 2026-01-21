@@ -1,5 +1,26 @@
 ## Hey, welcome to my profile!
 
+---
+### I do full-stack development, but...
+- My main languages are TypeScript and PHP, but I'm also confident in C# 😸😸
+- I'm based in Germany 🇩🇪
+- My area of expertise are web applications
+- I'm getting into managing infrastructure, DevOps and data analysis/machine learning to expand my skillset 😡😡
+- My daily driver is Arch Linux but I also have exp with Mint/Ubuntu, so I know my way around with most servers and containers
+---
+### Other stuff about me
+- My timezone is `CET (Central European Time) UTC/GMT+1` 🕥
+- I really like listening to K-Pop (I love aespa) and [watching K-Dramas (check out my MyDramaList!)](https://mydramalist.com/dramalist/fx_ntmm) ✨
+- In my free time I usually enjoy going out to walks with my friends and talking with them
+- I occassionally play games as well, but I sort of grew out of my gaming phase 😭
+---
+### My Current Spotify Activity 🎶
+(it's probably gonna be kpop)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dolaravro&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1a1a&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
 ### My Skills
 - Front-End:
 
