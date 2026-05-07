@@ -8,6 +8,11 @@
 - I'm getting into managing infrastructure, DevOps and data analysis/machine learning to expand my skillset 😡😡
 - My daily driver is Arch Linux but I also have exp with Mint/Ubuntu, so I know my way around with most servers and containers
 ---
+### My projects and how I work on them
+- Almost everything on my GitHub are my free-time (which I don't have a lot of) projects, if I'm not pushing on GitHub it means I'm pushing at work
+- I have lots of fun programming, and generative LLMs sort of takes the fun away by generating sequences of texts, so I avoid using it for my hobby projects
+- I can integrate LLMs into my projects' workflows using instruction files and make structures for them to use, but... I choose not to always do that! I use LLMs mainly for research if I don't know something and only use their text-generative functionality in my code if I absolutely need higher productivity that I myself alone can't provide, otherwise I steer away from them!
+---
 ### Other stuff about me
 - My timezone is `CET (Central European Time) UTC/GMT+1` 🕥
 - I really like listening to K-Pop (I love aespa) and [watching K-Dramas (check out my MyDramaList!)](https://mydramalist.com/dramalist/fx_ntmm) ✨
